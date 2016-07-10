@@ -1,0 +1,44 @@
+I:\VS\Application Horloge\Heure\Heure\bin\Debug\Horloge.exe.config
+I:\VS\Application Horloge\Heure\Heure\bin\Debug\Horloge.exe.manifest
+I:\VS\Application Horloge\Heure\Heure\bin\Debug\Horloge.application
+I:\VS\Application Horloge\Heure\Heure\bin\Debug\Horloge.exe
+I:\VS\Application Horloge\Heure\Heure\bin\Debug\Horloge.pdb
+I:\VS\Application Horloge\Heure\Heure\bin\Debug\MaterialDesignColors.dll
+I:\VS\Application Horloge\Heure\Heure\bin\Debug\MaterialDesignThemes.Wpf.dll
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\MainWindow.g.cs
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\WindowInfo.g.cs
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\App.g.cs
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Horloge_MarkupCompile.cache
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Horloge_MarkupCompile.lref
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\MainWindow.baml
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\WindowInfo.baml
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Horloge.g.resources
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Heure.Properties.Resources.resources
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Horloge.csproj.GenerateResource.Cache
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Horloge.exe.manifest
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Horloge.application
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Horloge.exe
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Horloge.pdb
+I:\VS\Application Horloge\Heure\Heure\obj\Debug\Horloge.csprojResolveAssemblyReference.cache
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\bin\Debug\Horloge.exe.config
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\bin\Debug\Horloge.exe.manifest
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\bin\Debug\Horloge.application
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\bin\Debug\Horloge.exe
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\bin\Debug\Horloge.pdb
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\bin\Debug\MaterialDesignColors.dll
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\bin\Debug\MaterialDesignThemes.Wpf.dll
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\MainWindow.g.cs
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\WindowInfo.g.cs
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\App.g.cs
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Horloge_MarkupCompile.cache
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Horloge_MarkupCompile.lref
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\MainWindow.baml
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\WindowInfo.baml
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Horloge.g.resources
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Heure.Properties.Resources.resources
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Horloge.csproj.GenerateResource.Cache
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Horloge.exe.manifest
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Horloge.application
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Horloge.exe
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Horloge.pdb
+I:\c#\Application Horloge v2.6\Application Horloge\Heure\Heure\obj\Debug\Horloge.csprojResolveAssemblyReference.cache
